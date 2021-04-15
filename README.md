@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=LinyosTorovolto&color=blue)
 - 👋 Hi, I’m a Soviet computer hacker who created the illegal hacker operation system
 - 👀 I’m interested in stealing people's music using the mp3 program
 - 🌱 I’m currently learning how to get children to install lunix on their computers
